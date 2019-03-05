@@ -4,11 +4,12 @@ public class FixtureCommission extends ColumnFixture {
 	
 	public int locks, stocks, barrels;
 	
+	//Dummy Test
 	public double tstCalculateSales() {
-		//return 100.00;
-		return 10.00;
+		return 100.00;
 	}
 	
+	//Dummy Test
 	public double tstCalculateCommission() {
 		return 10.00;
 	}      
